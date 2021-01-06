@@ -5,26 +5,26 @@ title: Sources
 
 ---
 
-# Outlines
+# Statute
 <ul>
-{% for outline in site.outlines %}
-<li><a href="{{ site.baseurl }}{{ outline.url }}">{{ outline.title }}</a></li>
+{% for statute in site.statutes %}
+<li><a href="{{ site.baseurl }}{{ statute.url }}">{{ statute.title }}</a></li>
 {% endfor %}
 </ul>
 
-# Review Problems
+# Cases
 
 <ul>
-{% for problem in site.problems %}
-<li><a href="{{ site.baseurl }}{{ problem.url }}">{{ problem.subtitle }}</a></li>
+{% for case in site.cases %}
+<li><a href="{{ site.baseurl }}{{ case.url }}">{{ case.title }}</a></li>
 {% endfor %}
 </ul>
 
-# Practice Exam Questions
+# Articles
 
 <ul>
-{% for exam in site.exams %}
-<li><a href="{{ site.baseurl }}{{ exam.url }}">{{ exam.title }}</a></li>
+{% for source in site.sources %}
+<li><a href="{{ site.baseurl }}{{ source.url }}">{{ source.title }}</a></li>
 {% endfor %}
 </ul>
 
