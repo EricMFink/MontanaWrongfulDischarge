@@ -17,6 +17,15 @@ email: efink@elon.edu
 phone: 336-279-9334
 web: emfink.net/ElonLaw
 
+collections: 
+  cases: 
+    output: true
+  notes: 
+    output: true
+  sources: 
+    output: true 
+  statutes: 
+    output: true 
 
 
 # -----------------------------------------------------------------------------
