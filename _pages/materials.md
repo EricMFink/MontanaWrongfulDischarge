@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /materials/
-title: Supplemental Material & Study Aids
+permalink: /sources/
+title: Sources
 
 ---
 

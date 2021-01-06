@@ -6,14 +6,6 @@
   url: https://www.emfink.net/ElonLaw
   label: Work
 
-- title: fa fa-calendar
-  url: https://calendly.com/emfink/
-  label: Appointment
-
-- title: ai ai-cv
-  url: https://www.emfink.net/ElonLaw/vita
-  label: CV
-
 - title: fab fa-github
   url: https://github.com/LuckyJimJD
   label: GitHub
