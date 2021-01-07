@@ -5,8 +5,8 @@ title: home
 
 ---
 
-<h1 class="profile">{{ site.title }}</h1>
-<h3 class="profile">{{ site.description }}</h3>
-<h4 class="profile">{{ site.author }}</h4>
-<h4 class="profile">{{ site.institution }}</h4>
-<h4 class="profile">{{ site.city }}, {{ site.state }} </h4>
+<h1 class="profile contrast-el">{{ site.title }}</h1>
+<h3 class="profile contrast-el">{{ site.description }}</h3>
+<h4 class="profile contrast-el">{{ site.author }}</h4>
+<h4 class="profile contrast-el">{{ site.institution }}</h4>
+<h4 class="profile contrast-el">{{ site.city }}, {{ site.state }} </h4>
